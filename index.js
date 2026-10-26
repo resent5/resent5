@@ -24,6 +24,11 @@ window.eaglercraftXOpts = {
       addr: 'java://java.webmc.fun',
       name: '\u00A7b\u00A7lWebMC\u00A7r \u00A78[JAVA]\u00A7r',
       hideAddr: true
+    },
+    {
+      addr: 'wss://archive.webmc.fun',
+      name: '\u00A7b\u00A7lWebMC ARCHIVE\u00A7r',
+      hideAddr: true
     }
   ],
   assetsURI: [ { url: 'game/assets.epw' } ],
